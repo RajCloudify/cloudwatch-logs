@@ -1,4 +1,4 @@
-#### Configuring Amazon Coudwatch in EC2  ###########
+#### Configuring Amazon Coudwatch in EC2  ########### https://medium.com/@rajattingal1/streamline-your-logs-ec2-%EF%B8%8F-cloudwatch-%EF%B8%8F-8ad9f2d81937
 
 1. Launch EC2 Instance
 2. Attach I AM Role
