@@ -10,8 +10,8 @@
                                         {
                                                 "file_path": "/var/log/*",
                                                 "log_group_class": "STANDARD",
-                                                "log_group_name": "AWS", #Group Name 
-                                                "log_stream_name": "Test", #Stream Name 
+                                                "log_group_name": "AWS", 
+                                                "log_stream_name": "Test", 
                                                 "retention_in_days": 1
                                         }
                                 ]
@@ -86,7 +86,7 @@
                 "buffer_size_mb": 3,
                 "concurrency": 8,
                 "insecure": false,
-                "region_override": "us-east-2", #mention according to the region
+                "region_override": "us-east-2", 
                 "traces_collected": {
                         "xray": {
                                 "bind_address": "127.0.0.1:2000",
