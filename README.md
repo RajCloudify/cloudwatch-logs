@@ -3,7 +3,7 @@
 1. Launch EC2 Instance
 2. Attach I AM Role 
 3. Connect EC2 instance
-4. Configure and Install Cloudwatch agent 
+4. Configure and Install Cloudwatch agent  
 
 
 #### Configuring and install Cloudwatch agent ####
